@@ -17,10 +17,7 @@ export default class App extends Component {
     items: [
       {id: 0, label: 'Write new component for Caesars corporation', important: true, done: true},
       { id: 1, label: 'Drink Coffee', important: false, done: false },
-      { id: 2, label: 'Learn React', important: true, done: false },
-      { id: 3, label: 'Make Awesome App', important: false, done: false },
-      {id:4, label: 'walking around Kyiv', important: true, done: false },
-      {id:5, label: 'go work' , important: false, done: true}
+      { id: 2, label: 'Learn React', important: true, done: false }
 
     ],
     filter: 'all',
