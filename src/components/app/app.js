@@ -15,7 +15,6 @@ export default class App extends Component {
 
   state = {
     items: [
-      {id: 0, label: 'Write new component for Caesars corporation', important: true, done: true},
       { id: 1, label: 'Drink Coffee', important: false, done: false },
       { id: 2, label: 'Learn React', important: true, done: false }
 
